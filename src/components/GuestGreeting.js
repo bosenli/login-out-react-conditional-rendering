@@ -3,7 +3,7 @@
 
 function GuestGreeting(){
     return (
-        <h1>Welcome back!</h1>
+        <h1>Welcome New Commer!</h1>
     )
 }
 
